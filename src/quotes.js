@@ -15,6 +15,11 @@ const quotesJSON = [
 	},
 	{
 		quote:
+			"We have two lives, and the second begins when we realize we only have one.",
+		source: "Confucius",
+	},
+	{
+		quote:
 			"If I have seen further it is by standing on the shoulders of Giants.",
 		source: "Isaac Newton",
 	},
