@@ -51,7 +51,7 @@ class App extends React.Component {
 						id="tweet-quote"
 						className="btn btn-secondary"
 						style={{ marginTop: 6 }}
-						href={`https://twitter.com/intent/tweet?hashtags=quotes&related=freecodecamp&text=\"${this.state.quote}\" - ${this.state.source}`}
+						href={`https://twitter.com/intent/tweet?hashtags=quotes&related=freecodecamp&text="${this.state.quote}" - ${this.state.source}`}
 						target="_blank"
 						rel="noreferrer"
 					>
