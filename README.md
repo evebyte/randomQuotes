@@ -2,7 +2,7 @@
 
 Get random quotes and tweet your favorites.
 
-![randomQuotes](https://user-images.githubusercontent.com/49453037/178216177-bc2d7c56-aeb9-4eb6-8fa1-21939339f6fa.png)
+![random-quotes-screenshot](https://user-images.githubusercontent.com/49453037/197069814-c78d94a5-a855-42da-9b3e-9a9e2edd919a.png)
 
 Made with React.
 
